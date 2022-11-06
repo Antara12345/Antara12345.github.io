@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4f65146.css",
-    "main.js": "/static/js/main.eee5c090.js",
+    "main.css": "/static/css/main.1bbd794d.css",
+    "main.js": "/static/js/main.66c63c00.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/Antara_Burman_Resume.pdf": "/static/media/Antara_Burman_Resume.78b4858a6afb04e72791.pdf",
     "index.html": "/index.html",
-    "main.a4f65146.css.map": "/static/css/main.a4f65146.css.map",
-    "main.eee5c090.js.map": "/static/js/main.eee5c090.js.map",
+    "main.1bbd794d.css.map": "/static/css/main.1bbd794d.css.map",
+    "main.66c63c00.js.map": "/static/js/main.66c63c00.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4f65146.css",
-    "static/js/main.eee5c090.js"
+    "static/css/main.1bbd794d.css",
+    "static/js/main.66c63c00.js"
   ]
 }
