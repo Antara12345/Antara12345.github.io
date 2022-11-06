@@ -1,0 +1,30 @@
+.gitBox{
+    /* border: 1px solid; */
+    height: 500px;
+}
+
+.Github {
+    width: 100%;
+    /* height: fit-content; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.Github img{
+    width: 100%;
+}
+
+@media only screen and (max-width: 1024px) {
+    .gitBox{
+        /* border: 1px solid; */
+        height: 500px;
+    }
+    .Github img{
+        width: 280px;
+    }
+      
+  }
+  
+  
