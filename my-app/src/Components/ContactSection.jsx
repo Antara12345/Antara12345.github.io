@@ -37,7 +37,7 @@ export function ContactSection() {
     e.target.reset()
   }
   return (
-    <div className={styles.rootCont} id="contact" style={{ scrollMarginTop: "80px", paddingTop: "25px", boxSizing: "border-box" }}>
+    <div className={styles.rootCont} id="contact" style={{ scrollMarginTop: "80px", paddingTop: "30px", boxSizing: "border-box" }}>
       <Fade bottom>
         <p className={styles.contactHeading}>Contact Me</p>
         <div className="App">
