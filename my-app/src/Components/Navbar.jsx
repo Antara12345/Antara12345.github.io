@@ -96,7 +96,7 @@ export default function Simple() {
   const { isOpen, onOpen, onClose } = useDisclosure();
   const onButtonClick = () => {
     
-    fetch('Antara_Burman_Resume.pdf').then(response => {
+    fetch('Antara_Burman_fw18_0224.pdf').then(response => {
         response.blob().then(blob => {
         
             const fileURL = window.URL.createObjectURL(blob);

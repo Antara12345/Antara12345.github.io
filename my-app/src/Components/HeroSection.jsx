@@ -55,7 +55,7 @@ export function HeroSection() {
             // href="https://drive.google.com/file/d/170izJbEYLqKYgCa120DX79MvFFEBUwya/view?usp=sharing"
             // target="_blank"
             download
-            href={"Antara_Burman_Resume.pdf"}
+            href={"Antara_Burman_fw18_0224.pdf"}
             // rel="noopener noreferrer"
           >
             <Button variant="contained" className={classes.contactBtn}>
