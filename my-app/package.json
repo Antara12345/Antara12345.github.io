@@ -24,7 +24,6 @@
     "framer-motion": "^7.6.4",
     "ityped": "^1.0.3",
     "next": "^12.3.0",
-    "node-sass": "^7.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-github-calendar": "^3.3.4",
@@ -66,5 +65,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }

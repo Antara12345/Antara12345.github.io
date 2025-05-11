@@ -5,7 +5,7 @@ export function AboutSection() {
   return (
     <div className={styles.rootCont} id="about">
       <Fade bottom>
-        <p>About</p>
+        <p>About12333</p>
         <div className={styles.mainCont}>
           <div className={styles.profilePicCont}>
             <img
