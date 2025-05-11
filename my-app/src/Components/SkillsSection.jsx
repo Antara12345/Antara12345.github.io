@@ -19,7 +19,7 @@ import GitHubCalendar from "react-github-calendar"
 
 export function SkillsSection() {
   return (
-    <div className={styles.rootCont} id="skills">
+    <div className={styles.rootCont} id="skills" style={{ scrollMarginTop: "80px", paddingTop: "60px", boxSizing: "border-box" }}>
       <Fade bottom>
         <p>Skills</p>
         <p>Front-end skills</p>

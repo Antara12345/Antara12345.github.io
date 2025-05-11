@@ -103,7 +103,7 @@ export default function Simple() {
             // Setting various property values
             let alink = document.createElement('a');
             alink.href = fileURL;
-            alink.download = 'Antara-Burman-Resume.pdf';
+            alink.download = 'Antara_Burman_fw18_0224.pdf';
             alink.click();
         })
     })

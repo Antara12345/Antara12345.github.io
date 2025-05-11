@@ -96,7 +96,7 @@ const projects = [
 ]
 export function ProjectsSection() {
   return (
-    <div className={styles.projectsSectionCont} id="projects">
+    <div className={styles.projectsSectionCont} id="projects" style={{ scrollMarginTop: "80px", paddingTop: "60px", boxSizing: "border-box" }}>
       <Fade bottom>
         <p>Projects</p>
       </Fade>
